@@ -34,10 +34,3 @@ interface adc1_intf(input reg PCLK,input reg PRESET);
 
 
 endinterface : adc1_intf
-
-
-
-//module adc(input reg PCLK,input reg PRESET,
-    //input reg PSEL,input reg PENABLE, input reg PWRITE,
-    //output reg PREADY, output reg [31:0] PRDATA, output reg PSLVERR,
-    //input real vin);
