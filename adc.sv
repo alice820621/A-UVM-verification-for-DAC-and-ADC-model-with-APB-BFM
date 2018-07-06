@@ -30,3 +30,4 @@ module adc(input reg PCLK,input reg PRESET,
     end
     
 endmodule : adc
+
