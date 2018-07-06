@@ -69,5 +69,3 @@ class BFM_Sequence extends uvm_sequence #(sq_msg);
     endtask : body
     
 endclass : BFM_Sequence
-
-
