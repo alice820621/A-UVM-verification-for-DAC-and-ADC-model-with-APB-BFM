@@ -1,5 +1,3 @@
-//top module
-
 `timescale 1us/1ns
 
 `include "dac.sv"
