@@ -33,9 +33,3 @@ interface dac1_intf(input reg PCLK,input reg PRESET);
 
 
 endinterface : dac1_intf
-
-
-//module dac(input reg PCLK,input reg PRESET,
-   // input reg PSEL,input reg PENABLE, input reg PWRITE,
-  //  output reg PREADY, input reg [31:0] PWDATA, output reg PSLVERR,
-  //  output real vout);
