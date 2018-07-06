@@ -69,4 +69,3 @@ class ADC2_monitor extends uvm_monitor;
     endtask :  run_phase
     
 endclass : ADC2_monitor
-
