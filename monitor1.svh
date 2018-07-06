@@ -70,3 +70,4 @@ class DAC_monitor1 extends uvm_monitor;
     endtask :  run_phase
     
 endclass : DAC_monitor1
+
