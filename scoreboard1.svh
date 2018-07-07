@@ -66,3 +66,4 @@ class DAC_scoreboard1 extends uvm_scoreboard;
     endtask : run_phase
 
 endclass : DAC_scoreboard1
+
