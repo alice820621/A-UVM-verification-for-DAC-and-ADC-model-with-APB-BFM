@@ -71,3 +71,4 @@ class ADC2_scoreboard extends uvm_scoreboard;
     endtask : run_phase
 
 endclass : ADC2_scoreboard
+
